@@ -1,0 +1,10 @@
+[package]
+name = "add"
+version = "0.1.0"
+authors = ["Jim D'Angelo <jim@funclobile.com>"]
+
+[lib]
+name = "add"
+crate-type = ["dylib"]
+
+[dependencies]
